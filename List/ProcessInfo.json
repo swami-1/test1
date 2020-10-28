@@ -1,0 +1,42 @@
+{
+  "Name": "List",
+  "Dependencies": {
+    "TruBot.Activities.Contracts": "4.7.0",
+    "TruBot.Activities.Design.Base": "4.7.0",
+    "TruBot.Recorder.Activities": "4.7.0",
+    "Trubot.Excel.Activities": "4.7.0",
+    "TruBot.ActiveDirectoryServices.Activities": "4.7.0",
+    "TruBot.Cockpit.Activities": "4.7.0",
+    "TruBot.Cryptography.Activities": "4.7.0",
+    "TruBot.Database.Activities": "4.7.0",
+    "TruBot.Email.Activities": "4.7.0",
+    "TruBot.FTP.Activities": "4.7.0",
+    "TruBot.GoogleApp.Activities": "4.7.0",
+    "TruBot.SAP.API.Activities": "4.7.0",
+    "TruBot.Web.Activities": "4.7.0",
+    "TruBot.WordDoc.Activities": "4.7.0",
+    "Trubot.Core.Activities": "4.7.0",
+    "TruBot.PDF.Activities": "4.7.0",
+    "TruBot.SalesforceCRM.Activities": "4.7.0",
+    "TruBot.Microsoft365.Activities": "4.7.0"
+  },
+  "Description": null,
+  "Main": "Default.xaml",
+  "SchemaVersion": "4.7.0.0",
+  "StudioVersion": "4.7.0.0",
+  "ProjectVersion": "1.0.0.0",
+  "RuntimeOptions": null,
+  "ProjectType": "Workflow",
+  "OutputFileName": "AgentOP.txt",
+  "WorkflowDocumentList": [
+    {
+      "WorkflowName": "Default.xaml"
+    }
+  ],
+  "ExternalReferencesList": [],
+  "CreatedDateTime": "28-10-2020 20:49:05",
+  "ModifiedDateTime": "28-10-2020 20:49:06",
+  "IsDependencyUpdated": true,
+  "NativePlayback": true,
+  "Selector": true
+}
