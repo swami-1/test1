@@ -1,0 +1,264 @@
+{
+  "PackageDependencies": {
+    "TruBot.Activities.Contracts": {
+      "Newtonsoft.Json": "12.0.3"
+    },
+    "TruBot.Activities.Design.Base": {},
+    "TruBot.Recorder.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "AForge": "2.2.5",
+      "AForge.Imaging": "2.2.5",
+      "AForge.Math": "2.2.5"
+    },
+    "Trubot.Excel.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "ClosedXML": "0.94.2",
+      "CsvHelper": "12.2.1",
+      "Microsoft.CSharp": "4.5.0",
+      "NPOI": "2.4.1",
+      "SharpZipLib": "1.0.0"
+    },
+    "TruBot.ActiveDirectoryServices.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "System.ValueTuple": "4.4.0"
+    },
+    "TruBot.Cockpit.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0"
+    },
+    "TruBot.Cryptography.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0"
+    },
+    "TruBot.Database.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0"
+    },
+    "TruBot.Email.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "BouncyCastle": "1.8.5",
+      "MailKit": "2.4.1",
+      "Microsoft.Exchange.WebServices": "2.2.0",
+      "MimeKit": "2.4.1",
+      "System.ValueTuple": "4.4.0"
+    },
+    "TruBot.FTP.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "FluentFTP": "19.1.2",
+      "SSH.NET": "2016.1.0"
+    },
+    "TruBot.GoogleApp.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "BouncyCastle": "1.8.5",
+      "Google.Apis": "1.42.0",
+      "Google.Apis.Auth": "1.42.0",
+      "Google.Apis.Calendar.v3": "1.42.0.1795",
+      "Google.Apis.Core": "1.42.0",
+      "Google.Apis.Docs.v1": "1.42.0.1797",
+      "Google.Apis.Drive.v3": "1.42.0.1778",
+      "Google.Apis.Gmail.v1": "1.42.0.1777",
+      "Google.Apis.Sheets.v4": "1.42.0.1791",
+      "Google.Apis.Storage.v1": "1.42.0.1744",
+      "MimeKit": "2.4.1",
+      "Newtonsoft.Json": "12.0.3",
+      "NodaTime": "2.4.7",
+      "System.Runtime.CompilerServices.Unsafe": "4.7.0"
+    },
+    "TruBot.SAP.API.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0"
+    },
+    "TruBot.Web.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "RestSharp": "106.6.10",
+      "Newtonsoft.Json": "12.0.3"
+    },
+    "TruBot.WordDoc.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "DocX": "1.5.0"
+    },
+    "Trubot.Core.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "CsvHelper": "12.2.1",
+      "Microsoft.CSharp": "4.5.0",
+      "Newtonsoft.Json": "12.0.3",
+      "System.Runtime.InteropServices": "4.3.0",
+      "System.Runtime.InteropServices.RuntimeInformation": "4.3.0",
+      "System.ValueTuple": "4.4.0"
+    },
+    "TruBot.PDF.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "FreeSpire.PDF": "6.2.0"
+    },
+    "TruBot.SalesforceCRM.Activities": {
+      "TruBot.Components.Resources": "4.7.0",
+      "TruBot.Activities.Design.Base": "4.7.0",
+      "CsvHelper": "12.2.1",
+      "Microsoft.CSharp": "4.5.0",
+      "Newtonsoft.Json": "12.0.3",
+      "RestSharp": "106.6.10",
+      "System.ValueTuple": "4.4.0"
+    },
+    "TruBot.Microsoft365.Activities": {}
+  },
+  "PackageAssemblies": {
+    "TruBot.Activities.Contracts": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Newtonsoft.Json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
+    ],
+    "TruBot.Activities.Design.Base": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll"
+    ],
+    "TruBot.Recorder.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Recorder.Activities\\4.7.0\\lib\\net461\\TruBot.EventManager.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Recorder.Activities\\4.7.0\\lib\\net461\\TruBot.Recorder.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Recorder.Activities\\4.7.0\\lib\\net461\\TruBot.Recorder.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Recorder.Activities\\4.7.0\\lib\\net461\\TruBot.Recorder.Contract.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Recorder.Activities\\4.7.0\\lib\\net461\\TruBot.UiAutomation.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\AForge\\2.2.5\\lib\\AForge.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\AForge.Imaging\\2.2.5\\lib\\AForge.Imaging.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\AForge.Math\\2.2.5\\lib\\AForge.Math.dll"
+    ],
+    "Trubot.Excel.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Excel.Activities\\4.7.0\\lib\\net461\\TruBot.Excel.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Excel.Activities\\4.7.0\\lib\\net461\\TruBot.Excel.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Excel.Activities\\4.7.0\\lib\\net461\\TruBot.Excel.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\ClosedXML\\0.94.2\\lib\\net46\\ClosedXML.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\CsvHelper\\12.2.1\\lib\\net45\\CsvHelper.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\NPOI\\2.4.1\\lib\\net45\\NPOI.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\NPOI\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\NPOI\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\NPOI\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\SharpZipLib\\1.0.0\\lib\\net45\\ICSharpCode.SharpZipLib.dll"
+    ],
+    "TruBot.ActiveDirectoryServices.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.ActiveDirectoryServices.Activities\\4.7.0\\lib\\net461\\TruBot.ActiveDirectoryServices.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.ActiveDirectoryServices.Activities\\4.7.0\\lib\\net461\\TruBot.ActiveDirectoryServices.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.ActiveDirectoryServices.Activities\\4.7.0\\lib\\net461\\TruBot.ActiveDirectoryServices.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.ValueTuple\\4.4.0\\lib\\net461\\System.ValueTuple.dll"
+    ],
+    "TruBot.Cockpit.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Cockpit.Activities\\4.7.0\\lib\\net461\\TruBot.Cockpit.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Cockpit.Activities\\4.7.0\\lib\\net461\\TruBot.Cockpit.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll"
+    ],
+    "TruBot.Cryptography.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Cryptography.Activities\\4.7.0\\lib\\net461\\TruBot.Cryptography.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Cryptography.Activities\\4.7.0\\lib\\net461\\TruBot.Cryptography.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Cryptography.Activities\\4.7.0\\lib\\net461\\TruBot.Cryptography.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll"
+    ],
+    "TruBot.Database.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Database.Activities\\4.7.0\\lib\\net461\\TruBot.Database.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Database.Activities\\4.7.0\\lib\\net461\\TruBot.Database.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Database.Activities\\4.7.0\\lib\\net461\\TruBot.Database.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll"
+    ],
+    "TruBot.Email.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Email.Activities\\4.7.0\\lib\\net461\\TruBot.Email.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Email.Activities\\4.7.0\\lib\\net461\\TruBot.Email.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Email.Activities\\4.7.0\\lib\\net461\\TruBot.Email.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\BouncyCastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\MailKit\\2.4.1\\lib\\net46\\MailKit.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\MimeKit\\2.4.1\\lib\\net46\\MimeKit.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.ValueTuple\\4.4.0\\lib\\net461\\System.ValueTuple.dll"
+    ],
+    "TruBot.FTP.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.FTP.Activities\\4.7.0\\lib\\net461\\TruBot.FTP.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.FTP.Activities\\4.7.0\\lib\\net461\\TruBot.FTP.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.FTP.Activities\\4.7.0\\lib\\net461\\TruBot.FTP.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\FluentFTP\\19.1.2\\lib\\net45\\FluentFTP.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\SSH.NET\\2016.1.0\\lib\\net40\\Renci.SshNet.dll"
+    ],
+    "TruBot.GoogleApp.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.GoogleApp.Activities\\4.7.0\\lib\\net461\\TruBot.GoogleApp.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.GoogleApp.Activities\\4.7.0\\lib\\net461\\TruBot.GoogleApp.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.GoogleApp.Activities\\4.7.0\\lib\\net461\\TruBot.GoogleApp.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\BouncyCastle\\1.8.5\\lib\\BouncyCastle.Crypto.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis\\1.42.0\\lib\\net45\\Google.Apis.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis\\1.42.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Auth\\1.42.0\\lib\\net45\\Google.Apis.Auth.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Auth\\1.42.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Calendar.v3\\1.42.0.1795\\lib\\net45\\Google.Apis.Calendar.v3.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Core\\1.42.0\\lib\\net45\\Google.Apis.Core.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Docs.v1\\1.42.0.1797\\lib\\net45\\Google.Apis.Docs.v1.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Drive.v3\\1.42.0.1778\\lib\\net45\\Google.Apis.Drive.v3.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Gmail.v1\\1.42.0.1777\\lib\\net45\\Google.Apis.Gmail.v1.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Sheets.v4\\1.42.0.1791\\lib\\net45\\Google.Apis.Sheets.v4.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Google.Apis.Storage.v1\\1.42.0.1744\\lib\\net45\\Google.Apis.Storage.v1.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\MimeKit\\2.4.1\\lib\\net46\\MimeKit.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Newtonsoft.Json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\NodaTime\\2.4.7\\lib\\net45\\NodaTime.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.Runtime.CompilerServices.Unsafe\\4.7.0\\lib\\netstandard2.0\\System.Runtime.CompilerServices.Unsafe.dll"
+    ],
+    "TruBot.SAP.API.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SAP.API.Activities\\4.7.0\\lib\\net461\\TruBot.SAP.API.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SAP.API.Activities\\4.7.0\\lib\\net461\\TruBot.SAP.API.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SAP.API.Activities\\4.7.0\\lib\\net461\\TruBot.SAP.API.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll"
+    ],
+    "TruBot.Web.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Web.Activities\\4.7.0\\lib\\net461\\TruBot.Web.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Web.Activities\\4.7.0\\lib\\net461\\TruBot.Web.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Web.Activities\\4.7.0\\lib\\net461\\TruBot.Web.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\RestSharp\\106.6.10\\lib\\net452\\RestSharp.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Newtonsoft.Json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll"
+    ],
+    "TruBot.WordDoc.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.WordDoc.Activities\\4.7.0\\lib\\net461\\TruBot.WordDoc.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.WordDoc.Activities\\4.7.0\\lib\\net461\\TruBot.WordDoc.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.WordDoc.Activities\\4.7.0\\lib\\net461\\TruBot.WordDoc.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\DocX\\1.5.0\\lib\\net40\\Xceed.Document.NET.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\DocX\\1.5.0\\lib\\net40\\Xceed.Words.NET.dll"
+    ],
+    "Trubot.Core.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Core.Activities\\4.7.0\\lib\\net461\\Microsoft.Activities.Extensions.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Core.Activities\\4.7.0\\lib\\net461\\Microsoft.Activities.Extensions.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Core.Activities\\4.7.0\\lib\\net461\\TruBot.Core.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Trubot.Core.Activities\\4.7.0\\lib\\net461\\TruBot.Core.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\CsvHelper\\12.2.1\\lib\\net45\\CsvHelper.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Newtonsoft.Json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.Runtime.InteropServices.RuntimeInformation\\4.3.0\\lib\\net45\\System.Runtime.InteropServices.RuntimeInformation.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.ValueTuple\\4.4.0\\lib\\net461\\System.ValueTuple.dll"
+    ],
+    "TruBot.PDF.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.PDF.Activities\\4.7.0\\lib\\net461\\TruBot.PDF.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.PDF.Activities\\4.7.0\\lib\\net461\\TruBot.PDF.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.PDF.Activities\\4.7.0\\lib\\net461\\TruBot.PDF.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.PDF.Activities\\4.7.0\\lib\\net461\\TruBot.PDF.Spire.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\FreeSpire.PDF\\6.2.0\\lib\\net46\\Spire.License.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\FreeSpire.PDF\\6.2.0\\lib\\net46\\Spire.Pdf.dll"
+    ],
+    "TruBot.SalesforceCRM.Activities": [
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SalesforceCRM.Activities\\4.7.0\\lib\\net461\\TruBot.SalesforceCRM.Activities.Design.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SalesforceCRM.Activities\\4.7.0\\lib\\net461\\TruBot.SalesforceCRM.Activities.DesignUI.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SalesforceCRM.Activities\\4.7.0\\lib\\net461\\TruBot.SalesforceCRM.Activities.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.SalesforceCRM.Activities\\4.7.0\\lib\\net461\\TruBot.SalesforceCRM.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\TruBot.Activities.Design.Base\\4.7.0\\lib\\net461\\TruBot.Activities.Design.Base.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\CsvHelper\\12.2.1\\lib\\net45\\CsvHelper.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\Newtonsoft.Json\\12.0.3\\lib\\net45\\Newtonsoft.Json.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\RestSharp\\106.6.10\\lib\\net452\\RestSharp.dll",
+      "C:\\Users\\kavati.lingaswami\\.nuget\\packages\\System.ValueTuple\\4.4.0\\lib\\net461\\System.ValueTuple.dll"
+    ],
+    "TruBot.Microsoft365.Activities": []
+  }
+}
